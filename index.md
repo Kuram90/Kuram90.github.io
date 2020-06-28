@@ -6,3 +6,7 @@ Er hat schwarze Haare und blaue Augen.
 * hinkend
 * Pickelig
 * naiv
+
+> Zukunft ist Fantasie,
+> Gegenwart ist Leben,
+> Vergangenheit sind Träume.
